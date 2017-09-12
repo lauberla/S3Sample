@@ -1,0 +1,5 @@
+---
+applications:
+- name: S3Sample_COS
+  memory: 512M
+  host: S3Sample_COS
